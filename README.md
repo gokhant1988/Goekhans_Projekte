@@ -46,8 +46,15 @@
 
 ## Projects
 
+### 1. Data Science Projekte in Python
+![Python](assets/img/python-logo.png)
 
-### 1. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
+- Face detection in Python mit der Bibliothek CV2 von OpenCV
+- Prognose von Diabetes - Anwendung von logistischer Regression in Python
+- Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine)
+
+
+### 2. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
 Die Datenanalyse-Schulungen wurden durchgeführt für: Hochschule Fresenius, Hochschule für Musik Saar, Institut für Qualität und Wirtschaftlichkeit, Hochschule Rhein-Waal...
 
 ![Hochschule Fresenius](assets/img/Fresenius-1920w.png)
@@ -69,7 +76,7 @@ Weitere Informationen erhalten Sie unter https://www.statisticz.de/workshops
 
 
 
-### 2. Statistische Datenanalysen für medizinische Studien 
+### 3. Statistische Datenanalysen für medizinische Studien 
 Die Auswertungen wurden erstellt für: Klinikverbund Südwest, Uniklinik Köln, Uniklinik Freiburg, Krankenhaus Maria Hilf Daun, Malteser, Tierklinik Lüsche, Uniklinik Regensburg... 
 
 Studien:
@@ -86,10 +93,4 @@ Studien:
 ![Uniklinik Freiburg](assets/img/1592834131137-1920w.jpg)
 ![Krankenhaus Maria Hilf Daun](assets/img/images+(1)-1920w.jpg)
 
-### 3. Data Science Projekte mit Python
-
-
-
-### 4. Youtube Tutorials
-https://www.youtube.com/watch?v=vYSnn-u47sI
 
