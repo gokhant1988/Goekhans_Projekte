@@ -91,8 +91,5 @@ Studien:
 
 
 ### 4. Youtube Tutorials
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/vYSnn-u47sI" 
-  title="Daten statistisch auswerten in SPSS"
-  >
-</iframe>
+[![Video anschauen](https://img.youtube.com/vi/vYSnn-u47sI/maxresdefault.jpg)](https://www.youtube.com/watch?v=vYSnn-u47sI)
+
