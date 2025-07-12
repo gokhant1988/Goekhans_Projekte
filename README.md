@@ -84,9 +84,7 @@ Studien:
 ![Uniklinik Freiburg](assets/img/1592834131137-1920w.jpg)
 ![Krankenhaus Maria Hilf Daun](assets/img/images+(1)-1920w.jpg)
 ![Malteser](assets/img/Download-e8b4e663-1920w-1920w.png)
-![Tierklinik Lüsche]
-![Uniklinik Regensburg]
-![Klinikverbund Südwest](assets/img/KVSW-1920w.jpeg)
+
 
 
 ## Youtube Tutorials
