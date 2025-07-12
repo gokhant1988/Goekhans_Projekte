@@ -51,6 +51,7 @@ Die Datenanalyse-Schulungen wurden durchgeführt für: Hochschule Fresenius, Hoc
 
 ![Hochschule Fresenius](assets/img/Fresenius-1920w.png)
 ![Hochschule Rhein-Waal](assets/img/index-1920w.png)
+![Hochschule für Musik Saar](assets/img/x600_y249_d534d2_08-1920w.jpg)
 
 
 Kursinhalte: 
@@ -82,7 +83,6 @@ Studien:
 ![Uniklinik Köln](assets/img/Download--281-29-350f71ab-1920w.png)
 ![Uniklinik Freiburg](assets/img/1592834131137-1920w.jpg)
 ![Krankenhaus Maria Hilf Daun](assets/img/images+(1)-1920w.jpg)
-![Malteser](assets/img/Download-e8b4e663-1920w-1920w.png)
 
 
 
