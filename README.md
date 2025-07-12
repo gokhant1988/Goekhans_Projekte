@@ -49,10 +49,10 @@
 ### Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
 Die Datenanalyse-Schulungen wurden durchgeführt für: Hochschule Fresenius, Hochschule für Musik Saar, Institut für Qualität und Wirtschaftlichkeit, Hochschule Rhein-Waal...
 
-![Hochschule Fresenius] (assets/img/Fresenius-1920w.png)
-![Institut für Qualität und Wirtschaftlichkeit] (assets/img/Download+(2)-1920w.png)
-![Hochschule Rhein-Waal] (assets/img/index-1920w.png)
-![Hochschule für Musik Saar] (assets/img/x600_y249_d534d2_08-1920w.jpg)
+![Hochschule Fresenius](assets/img/Fresenius-1920w.png)
+![Institut für Qualität und Wirtschaftlichkeit](assets/img/Download+(2)-1920w.png)
+![Hochschule Rhein-Waal](assets/img/index-1920w.png)
+![Hochschule für Musik Saar](assets/img/x600_y249_d534d2_08-1920w.jpg)
 
 Kursinhalte: 
 1. Umgang mit der Benutzeroberfläche von SPSS:
