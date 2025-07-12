@@ -42,6 +42,8 @@
 - Prognose von Diabetes - Anwendung von logistischer Regression in Python
 - Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine)
 - K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und haben eine gute Marge?
+- Anwendung von Random Forest bei der Erkennung von bestimmten Pflanzen
+- Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? 
 
 
 ### 2. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
