@@ -41,7 +41,7 @@
 - Face detection in Python mit der Bibliothek CV2 von OpenCV
 - Prognose von Diabetes - Anwendung von logistischer Regression in Python
 - Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine)
-- k-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und haben eine gute Marge?
+- K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und haben eine gute Marge?
 
 
 ### 2. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
