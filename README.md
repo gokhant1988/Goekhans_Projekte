@@ -32,17 +32,6 @@
 - Newsletterversand & DSGVO-konforme Datenpflege		
 
 
-**Werkstudent im Data Quality Team @ Stepstone GmbH (07/2014-07/2016)**
-- Sammeln von Erfahrungen in Datenmanagement und Datenbanken
-
-
-**Werkstudent Database @ Motul GmbH (05/2012-10/2013)**
-- Datenmanagement und Erstellung von Reportings, Statistiken und Ad-hoc-Analysen
-
-
-**Werkstudent Database @ Krüger AG und TMD Friction GmbH (05/2012-10/2013)**
-- Aushilfe in der Produktion   
-
 
 ## Projects
 
