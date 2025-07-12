@@ -90,4 +90,4 @@ Studien:
 
 ## Youtube Tutorials
 
-- [Fragebogen auswerten mit IBM SPSS - Youtube Lernvideo] (https://youtu.be/vYSnn-u47sI)
+- ![Fragebogen auswerten mit IBM SPSS - Youtube Lernvideo](https://youtu.be/vYSnn-u47sI)
