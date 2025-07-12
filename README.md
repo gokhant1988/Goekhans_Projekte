@@ -91,5 +91,5 @@ Studien:
 
 
 ### 4. Youtube Tutorials
-[![Video anschauen](https://img.youtube.com/vi/vYSnn-u47sI/maxresdefault.jpg)](https://www.youtube.com/watch?v=vYSnn-u47sI)
+https://www.youtube.com/watch?v=vYSnn-u47sI
 
