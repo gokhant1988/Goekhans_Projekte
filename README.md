@@ -47,7 +47,7 @@
 ## Projects
 
 
-### 1.Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
+### 1. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
 Die Datenanalyse-Schulungen wurden durchgeführt für: Hochschule Fresenius, Hochschule für Musik Saar, Institut für Qualität und Wirtschaftlichkeit, Hochschule Rhein-Waal...
 
 ![Hochschule Fresenius](assets/img/Fresenius-1920w.png)
@@ -68,7 +68,8 @@ Regressionen, Moderatoranalysen)
 Weitere Informationen erhalten Sie unter https://www.statisticz.de/workshops
 
 
-### 2.Statistische Datenanalysen für medizinische Studien 
+
+### 2. Statistische Datenanalysen für medizinische Studien 
 Die Auswertungen wurden erstellt für: Klinikverbund Südwest, Uniklinik Köln, Uniklinik Freiburg, Krankenhaus Maria Hilf Daun, Malteser, Tierklinik Lüsche, Uniklinik Regensburg... 
 
 Studien:
@@ -89,6 +90,6 @@ Studien:
 
 
 
-## Youtube Tutorials
+## 4. Youtube Tutorials
 
 - ![Fragebogen auswerten mit IBM SPSS - Youtube Lernvideo](https://youtu.be/vYSnn-u47sI)
