@@ -37,6 +37,11 @@
 
 ### 1. Data Science Projekte in Python
 ![Python](assets/img/python-logo.png)
+img[src*="python-logo.png"] {
+  max-width: 150px;
+  height: auto;
+}
+
 
 - Face detection in Python mit der Bibliothek CV2 von OpenCV
 - Prognose von Diabetes - Anwendung von logistischer Regression in Python
