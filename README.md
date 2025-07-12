@@ -51,7 +51,7 @@ Die Datenanalyse-Schulungen wurden durchgeführt für: Hochschule Fresenius, Hoc
 
 ![Hochschule Fresenius](assets/img/Fresenius-1920w.png)
 ![Hochschule Rhein-Waal](assets/img/index-1920w.png)
-![Institut für Qualität und Wirtschaftlichkeit] (assets/img/Download+(2)-1920w.png)
+![Institut für Qualität und Wirtschaftlichkeit](assets/img/Download+(2)-1920w.png)
 
 
 
