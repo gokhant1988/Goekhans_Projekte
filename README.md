@@ -78,8 +78,10 @@ Studien:
 - Gründe einer Aortenklappenoperation bei einem bestimmten Aortenklappenvitium
 - Lahmheiten bei Pferden und Regenerative Behandlungen...
 
+
 ![Uniklinik Köln](assets/img/Download--281-29-350f71ab-1920w.png)
 ![Uniklinik Freiburg](assets/img/1592834131137-1920w.jpg)
 ![Krankenhaus Maria Hilf Daun](assets/img/images+(1)-1920w.jpg)
 
+Weitere Informationen erhalten Sie unter: https://www.statisticz.de/Medizinische_Statistik_Forschung_mit_SPSS
 
