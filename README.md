@@ -83,7 +83,8 @@ Studien:
 ![Uniklinik Köln](assets/img/Download--281-29-350f71ab-1920w.png)
 ![Uniklinik Freiburg](assets/img/1592834131137-1920w.jpg)
 ![Krankenhaus Maria Hilf Daun](assets/img/images+(1)-1920w.jpg)
-![Klinikverbund Südwest](assets/img/KVSW-1920w.jpeg)
+![Malteser](assets/img/Download-e8b4e663-1920w-1920w.png)
+
 
 
 
