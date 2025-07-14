@@ -1,6 +1,6 @@
 # Data Scientist - Gökhan Tayap
 
-#### Technical Skills: Python, SQL, SPSS, Tableau, GitHub, Streamlit
+#### Software Skills: Python, SQL, SPSS, Tableau, GitHub, Streamlit
 
 
 ## Studium						       		
@@ -33,7 +33,7 @@
 
 
 
-## Projects
+## Projekte
 
 ### 1. Data Science Projekte in Python
 ![Python](assets/img/Python-logo-notext.svg.png)
