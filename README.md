@@ -4,8 +4,8 @@
 
 
 ## Studium						       		
-- Master of Science Operations Management | Uni Wuppertal (10/2012-04/2016)
-- Bachelor of Science Wirtschaftswissenschaften | Uni Wuppertal (10/2008-04/2012)
+- Master of Science Operations Management | Bergische Uni Wuppertal (10/2012-04/2016)
+- Bachelor of Science Wirtschaftswissenschaften | Bergische Uni Wuppertal (10/2008-04/2012)
 
 
 ## Beruflicher Werdegang
