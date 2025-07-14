@@ -44,8 +44,10 @@
 <img src="assets/img/Face detection.png" alt="KMEANS" width="800">  
 - Prognose von Diabetes - Anwendung von logistischer Regression in Python |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb
+
 - Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/SupportVectorMachine.ipynb
+
 - K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und sind hoch rabattiert? |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/k_means_Produktkategorien.ipynb
   <img src="assets/img/kmeans.png" alt="KMEANS" width="400">  
