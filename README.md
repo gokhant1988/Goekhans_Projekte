@@ -38,11 +38,11 @@
 
 ### 1. Data Science Projekte in Python
 ![Python](assets/img/Python-logo-notext.svg.png)
-  <img src="assets/img/Face detection.png" alt="KMEANS" width="400">  
 
 - Face detection in Python mit der Bibliothek CV2 von OpenCV |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/FINAL_face_detection.ipynb
-  
+  <img src="assets/img/Face detection.png" alt="KMEANS" width="400">  
+
 - Prognose von Diabetes - Anwendung von logistischer Regression in Python |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb
 - Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) |
