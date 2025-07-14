@@ -51,10 +51,11 @@
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/RandomForest_Anwendung.ipynb
 - Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/Lineare_Regression3.ipynb
-<img src="assets/img/LR3.png" alt="LR3" width="200">  
+
+<img src="assets/img/LR3.png" alt="LR3" width="400">  
 
 ### 2. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
-<img src="assets/img/SPSS.png" alt="SPSS Logo" width="600">  
+<img src="assets/img/SPSS.png" alt="SPSS Logo" width="200">  
 
 Die Datenanalyse-Schulungen wurden durchgeführt für: Hochschule Fresenius, Hochschule für Musik Saar, Institut für Qualität und Wirtschaftlichkeit, Hochschule Rhein-Waal...
 
