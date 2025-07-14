@@ -51,7 +51,8 @@
 
 - Anwendung von Random Forest bei der Erkennung von bestimmten Pflanzen |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/RandomForest_Anwendung.ipynb
-    <img src="assets/img/Random Forest.png" alt="Random Forest" width="400">  
+
+<img src="assets/img/Random Forest.png" alt="Random Forest" width="400">  
 
 - Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/Lineare_Regression3.ipynb
