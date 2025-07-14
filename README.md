@@ -37,7 +37,7 @@
 ## Projekte
 
 ### 1. Data Science Projekte in Python
-  ![Python](assets/img/Python-logo-notext.svg.png)
+    ![Python](assets/img/Python-logo-notext.svg.png)
 - Face detection in Python mit der Bibliothek CV2 von OpenCV |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/FINAL_face_detection.ipynb
 
