@@ -47,8 +47,6 @@
 
 
 ### 2. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
-<img src="assets/img/SPSS_An_IBM_Company_logo.svg.png" alt="SPSS Logo" width="200">
-
 Die Datenanalyse-Schulungen wurden durchgeführt für: Hochschule Fresenius, Hochschule für Musik Saar, Institut für Qualität und Wirtschaftlichkeit, Hochschule Rhein-Waal...
 
 ![Hochschule Fresenius](assets/img/Fresenius-1920w.png)
@@ -72,6 +70,8 @@ Weitere Informationen erhalten Sie unter https://www.statisticz.de/workshops
 
 ### 3. Statistische Datenanalysen für medizinische Studien 
 Die Auswertungen wurden erstellt für: Klinikverbund Südwest, Uniklinik Köln, Uniklinik Freiburg, Krankenhaus Maria Hilf Daun, Malteser, Tierklinik Lüsche, Uniklinik Regensburg... 
+
+<img src="assets/img/SPSS.png" alt="SPSS Logo" width="80">  
 
 Studien:
 - Der Einfluss der Corona-Pandemie auf das Auftreten von Wochenbettdepressionen in Abhängigkeit von bestimmten Stressleveln
