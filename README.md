@@ -45,8 +45,10 @@
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb
 - Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/SupportVectorMachine.ipynb
-- K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und haben eine gute Marge? |
+- K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und sind hoch rabbatiert? |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/k_means_Produktkategorien.ipynb
+  <img src="assets/img/kmeans.png" alt="KMEANS" width="400">  
+
 - Anwendung von Random Forest bei der Erkennung von bestimmten Pflanzen |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/RandomForest_Anwendung.ipynb
 - Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? |
