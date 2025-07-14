@@ -41,6 +41,7 @@
 
 - Face detection in Python mit der Bibliothek CV2 von OpenCV |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/FINAL_face_detection.ipynb
+
   <img src="assets/img/Face detection.png" alt="KMEANS" width="400">  
 
 - Prognose von Diabetes - Anwendung von logistischer Regression in Python |
