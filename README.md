@@ -52,6 +52,7 @@
 
 - K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und sind hoch rabattiert? |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/k_means_Produktkategorien.ipynb
+
   <img src="assets/img/kmeans.png" alt="KMEANS" width="400">
 
   
