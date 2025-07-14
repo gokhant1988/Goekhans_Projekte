@@ -44,7 +44,7 @@
 <img src="assets/img/Face detection.png" alt="KMEANS" width="800">  
 - Prognose von Diabetes - Anwendung von logistischer Regression in Python |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb
-
+  
 - Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/SupportVectorMachine.ipynb
 
