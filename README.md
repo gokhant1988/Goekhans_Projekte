@@ -1,6 +1,6 @@
 # Data Scientist - Gökhan Tayap
 
-#### Software Skills: Python | Pandas | Scikit-learn | Seaborn | Matplotlib| SQL | SPSS | Tableau | GitHub | Streamlit
+#### Software Skills: Python | Pandas | Scikit-learn | Seaborn | Matplotlib | SQL | SPSS | Tableau | GitHub | Streamlit
 
 
 ## Studium						       		
