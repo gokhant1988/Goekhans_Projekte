@@ -45,7 +45,7 @@
 <img src="assets/img/Face detection.png" alt="KMEANS" width="1200">  
 
 - Prognose von Diabetes - Anwendung von logistischer Regression in Python |
-  https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb
+  [Link Diabetes Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb)
 
   
 - Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) |
@@ -66,7 +66,7 @@
 <img src="assets/img/Random Forest.png" alt="Random Forest" width="600">  
 
 - Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? |
-  https://github.com/gokhant1988/Goekhans_Projekte/blob/main/Lineare_Regression3.ipynb
+  [Link Lineare Regression Projekt]https://github.com/gokhant1988/Goekhans_Projekte/blob/main/Lineare_Regression3.ipynb
 
 <img src="assets/img/LR3.png" alt="LR3" width="600">  
 
