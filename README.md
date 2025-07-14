@@ -47,7 +47,7 @@
 
 
 ### 2. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
-![SPSS](![Python](assets/img/Python-logo-notext.svg.png)
+![SPSS](assets/img/SPSS.png)
 
 Die Datenanalyse-Schulungen wurden durchgeführt für: Hochschule Fresenius, Hochschule für Musik Saar, Institut für Qualität und Wirtschaftlichkeit, Hochschule Rhein-Waal...
 
