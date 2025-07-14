@@ -66,7 +66,7 @@
 <img src="assets/img/Random Forest.png" alt="Random Forest" width="600">  
 
 - Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? |
-  [Link Lineare Regression Projekt]https://github.com/gokhant1988/Goekhans_Projekte/blob/main/Lineare_Regression3.ipynb
+  [Link Lineare Regression Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/Lineare_Regression3.ipynb)
 
 <img src="assets/img/LR3.png" alt="LR3" width="600">  
 
