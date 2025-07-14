@@ -39,7 +39,8 @@
 ### 1. Data Science Projekte in Python
   ![Python](assets/img/Python-logo-notext.svg.png)
 - Face detection in Python mit der Bibliothek CV2 von OpenCV |
-  https://github.com/gokhant1988/Goekhans_Projekte/blob/main/FINAL_face_detection.ipynb
+  [Face Detection Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/FINAL_face_detection.ipynb)
+
 
 <img src="assets/img/Face detection.png" alt="KMEANS" width="1200">  
 
@@ -48,7 +49,7 @@
 
   
 - Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) |
-  https://github.com/gokhant1988/Goekhans_Projekte/blob/main/SupportVectorMachine.ipynb
+  [Churn Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/SupportVectorMachine.ipynb)
 
 - K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und sind hoch rabattiert? |
   https://github.com/gokhant1988/Goekhans_Projekte/blob/main/k_means_Produktkategorien.ipynb
