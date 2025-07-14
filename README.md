@@ -38,12 +38,12 @@
 ### 1. Data Science Projekte in Python
 ![Python](assets/img/Python-logo-notext.svg.png)
 
-- Face detection in Python mit der Bibliothek CV2 von OpenCV | Link -> https://github.com/gokhant1988/Goekhans_Projekte/blob/main/FINAL_face_detection.ipynb
-- Prognose von Diabetes - Anwendung von logistischer Regression in Python | Link-> https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb
-- Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) | Link-> https://github.com/gokhant1988/Goekhans_Projekte/blob/main/SupportVectorMachine.ipynb
-- K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und haben eine gute Marge?
-- Anwendung von Random Forest bei der Erkennung von bestimmten Pflanzen
-- Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? 
+- Face detection in Python mit der Bibliothek CV2 von OpenCV | https://github.com/gokhant1988/Goekhans_Projekte/blob/main/FINAL_face_detection.ipynb
+- Prognose von Diabetes - Anwendung von logistischer Regression in Python | https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb
+- Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) | https://github.com/gokhant1988/Goekhans_Projekte/blob/main/SupportVectorMachine.ipynb
+- K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und haben eine gute Marge? | https://github.com/gokhant1988/Goekhans_Projekte/blob/main/k_means_Produktkategorien.ipynb
+- Anwendung von Random Forest bei der Erkennung von bestimmten Pflanzen | https://github.com/gokhant1988/Goekhans_Projekte/blob/main/RandomForest_Anwendung.ipynb
+- Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? | https://github.com/gokhant1988/Goekhans_Projekte/blob/main/Lineare_Regression3.ipynb 
 
 
 ### 2. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
