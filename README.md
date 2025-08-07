@@ -1,7 +1,9 @@
 # Data Scientist - Gökhan Tayap
 
+## Fähigkeiten
 #### Software Skills: Python | Pandas | Scikit-learn | Seaborn | Matplotlib | SQL | SPSS | Tableau | GitHub | Streamlit
 
+## Über mich
 
 ## Studium						       		
 - Master of Science Operations Management - Bergische Universität Wuppertal (10/2012-04/2016)
