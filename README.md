@@ -26,12 +26,6 @@
 - Zertifizierter Datenschutzbeauftragter (DSGVO)
 
 
-**CRM Analyst @ PSA Peugeot Citroen GmbH (09/2016-02/2018)**
-- Kampagnensteuerung & Zielgruppenselektionen mit Adobe Campaign  
-- Betreuung der Marketingdatenbanken & KPI-Analysen 
-- Newsletterversand & DSGVO-konforme Datenpflege		
-
-
 
 ## Projekte
 
