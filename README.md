@@ -35,34 +35,6 @@
   [ Link Face Detection Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/FINAL_face_detection.ipynb)
 
 
-<img src="assets/img/Face detection.png" alt="KMEANS" width="1200">  
-
-- Prognose von Diabetes - Anwendung von logistischer Regression in Python |
-  [Link Diabetes Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/logistische_Regression1_ML.ipynb)
-
-  
-- Analyse des Churn-Verhaltens von Kunden - Prediction mit Hilfe von SVM (Support Vector Machine) |
-  [Link Churn Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/SupportVectorMachine.ipynb)
-
-- K-Means Algorithmus - Anwendung im E-Commerce- Welche Produktgruppen sind schnell lieferbar und sind hoch rabattiert? |
-  [Link K-Means Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/k_means_Produktkategorien.ipynb)
-
-  <img src="assets/img/kmeans.png" alt="KMEANS" width="600">
-
-  
-  <img src="assets/img/Produktkategorien_KMeans.png" alt="KMEANS" width="600">
-
-
-- Anwendung von Random Forest bei der Erkennung von bestimmten Pflanzen |
-  [Link Random Forest Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/RandomForest_Anwendung.ipynb)
-
-<img src="assets/img/Random Forest.png" alt="Random Forest" width="600">  
-
-- Anwendung von linearer Regression : Gibt es einen Zusammenhang zwischen Stadiongröße und Anzahl der Tore bei Fussball Weltmeisterschaften? |
-  [Link Lineare Regression Projekt](https://github.com/gokhant1988/Goekhans_Projekte/blob/main/Lineare_Regression3.ipynb)
-
-<img src="assets/img/LR3.png" alt="LR3" width="600">  
-
 ### 2. Leitung von (online und offline) Datenanalyse-Schulungen mit IBM SPSS
 <img src="assets/img/SPSS.png" alt="SPSS Logo" width="200">  
 
