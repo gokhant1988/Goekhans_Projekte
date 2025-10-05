@@ -15,7 +15,7 @@
 - Abschlussprojekt: Entwicklung und Anwendung von Face Detection und Face Recognition mit dem Modul CV2 in Python
 
 
-**Inhaber und Statistiker @ Statisticz (05/2018-10/2024)**
+**Inhaber und Statistiker @ Statisticz (05/2018-09/2025)**
 - Leitung eines Unternehmens für statistische Datenanalysen 
 - 1.000+ Analyseprojekte (SPSS, MySQL, Tableau) im B2B-/B2C-Bereich  
 - Verantwortung für die Anleitung und Betreuung eines weiteren Statistikers
